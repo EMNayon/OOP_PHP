@@ -1,5 +1,5 @@
 <?php
-include_once "functionOOP/02.php";
+include_once "functionOOP/02Class.php";
 ?>
 <!-- Work with Method and Object-->
 <!DOCTYPE html>
